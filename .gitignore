@@ -1,0 +1,15 @@
+*.rar
+*.zip
+*.o
+*.exe
+*.json
+*.easycpp
+*.depend
+*.cbp
+*.layout
+README.md
+main
+*.out
+_data
+_next
+a
